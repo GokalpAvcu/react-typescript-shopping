@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Book",
+        "price": 10,
+        "imgUrl": "/images/book.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Iphone 13 Pro Max",
+        "price": 5000,
+        "imgUrl": "/images/iphone.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Macbook",
+        "price": 7000,
+        "imgUrl": "/images/mac.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Ultra HD 4K TV",
+        "price": 9000,
+        "imgUrl": "/images/tv.jpg"
+    }
+]
